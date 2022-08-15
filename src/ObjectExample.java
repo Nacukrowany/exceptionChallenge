@@ -25,6 +25,8 @@ public class ObjectExample {
         CarObject car = new CarObject("Ford", "Fiesta", 1999);
         CarObject car2 = new CarObject("Alfa", "Romeo", 2005);
 
+
+        System.out.println("siema");
         System.out.println(car);
         System.out.println(car.hashCode());
 
